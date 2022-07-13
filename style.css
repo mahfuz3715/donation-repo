@@ -46,6 +46,18 @@ h2 {
     text-align: center;
 }
 
+.money1 {
+    text-decoration: none;
+    font-weight: 800;
+    color: black;
+    background-color: rgb(243, 6, 6);
+    padding: 30px 40px;
+    border-radius: 5px;
+
+
+
+}
+
 .money {
     text-decoration: none;
     font-weight: 800;
