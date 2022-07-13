@@ -120,3 +120,21 @@ button {
     padding: 100px 50px;
     background-color: antiquewhite;
 }
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+#name1 {
+    color: rgb(197, 5, 245);
+}
+
+footer h2 {
+    color: red;
+
+}
+
+footer p {
+    color: yellowgreen;
+}
