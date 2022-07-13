@@ -1,0 +1,122 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+
+section {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.first {
+    padding-top: 230px;
+    text-align: center;
+    color: white;
+
+}
+
+.first-img {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.second {
+    text-align: center;
+}
+
+.money {
+    text-decoration: none;
+    font-weight: 800;
+    color: black;
+    background-color: wheat;
+    padding: 30px 40px;
+    border-radius: 5px;
+}
+
+.third {
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    font-display: inherit;
+
+}
+
+.size {
+    text-align: justify;
+    width: 30%;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 20px;
+    background-color: rgba(208, 208, 171, 0.632);
+}
+
+.donation-pic {
+    height: 15px;
+    width: 5px;
+}
+
+.donation {
+    text-align: justify;
+    width: 50%;
+    padding: 5%;
+}
+
+.ddp {
+    display: flex;
+    padding: 5%;
+    margin: 20px;
+}
+
+.ddp-2 {
+    display: flex;
+    padding: 5%;
+    margin: 20px;
+}
+
+.ddp-last {
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.forth {
+    text-align: center;
+
+}
+
+button {
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+}
+
+.last {
+    text-align: center;
+    padding: 100px 50px;
+    background-color: antiquewhite;
+}
